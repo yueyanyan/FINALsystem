@@ -1,3 +1,9 @@
+![image](http://7xo18h.com1.z0.glb.clouddn.com/类图.png)
+#
+![image](http://7xo18h.com1.z0.glb.clouddn.com/选课时序图.png)
+#
+![image](http://7xo18h.com1.z0.glb.clouddn.com/加课时序图.png)
+#
 ![image](http://7xo18h.com1.z0.glb.clouddn.com/111.png)
 #
 ![image](http://7xo18h.com1.z0.glb.clouddn.com/222.png)
